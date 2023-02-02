@@ -13,8 +13,13 @@
       },
 
 {
-         "name": "Thailand-GAME",
+         "name": "Thailand-GAME-001",
          "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TH-015.ovpn"
+      },
+
+{
+         "name": "Thailand-GAME-002",
+         "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/Game-002.ovpn"
       },
 
 {
