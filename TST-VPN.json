@@ -25,13 +25,19 @@
 {
          "name": "🤍အိမ်ထောင်သက်1yearကျော်အထိမ်အမှတ်🤍",
          "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/Free.ovpn"
+      },
+
+{
+         "name": "Thailand-NLD-001",
+         "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TST-001.ovpn"
       }
 
 
+
    ],
-"message":"12 Fenruary 2023\n\n•Version:2\n\n\n📢Owner By : Than Si Thu📢",
+"message":"22 April 2023\n\n•Version:3\n\n\n📢Owner By : Than Si Thu📢",
    "title":"🎄Add Game VPS🎄" ,
-   "version": 2
+   "version": 3
 }
 
 
