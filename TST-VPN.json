@@ -30,14 +30,17 @@
 {
          "name": "Thailand-NLD-001",
          "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TST-001.ovpn"
+      },
+
+{
+         "name": "Thailand-Game-003",
+         "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TST-002.ovpn"
       }
 
-
-
    ],
-"message":"22 April 2023\n\n•Version:3\n\n\n📢Owner By : Than Si Thu📢",
+"message":"12 May 2023\n\n•Version:4\n\n\n📢Owner By : Than Si Thu📢",
    "title":"🎄Add Game VPS🎄" ,
-   "version": 3
+   "version": 4
 }
 
 
