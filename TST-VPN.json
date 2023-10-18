@@ -35,12 +35,31 @@
 {
          "name": "Thailand-Game-003",
          "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TST-002.ovpn"
+      },
+
+
+{
+         "name": "Thailand-New-001",
+         "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TST-01.ovpn"
+      },
+
+{
+         "name": "Thailand-New-002",
+         "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TST-02.ovpn"
+      },
+
+{
+         "name": "Thailand-New-001",
+         "url": "https://raw.githubusercontent.com/STS-VPN/TST-VPN/main/TST-03.ovpn"
       }
 
+
+      
+
    ],
-"message":"18 September 2023\n\n•Version:13\n\n\n📢Owner By : Than Si Thu📢",
+"message":"18 October 2023\n\n•Version:14\n\n\n📢Owner By : Than Si Thu📢",
    "title":"🎄Add Game VPS🎄" ,
-   "version": 13
+   "version": 14
 }
 
 
